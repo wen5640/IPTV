@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://myepg.org/EPG/Zhejiang_Multicast.xml.gz"
+#EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml.gz"
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" group-title="央视",CCTV1综合
 http://192.168.11.253:10086/udp/233.50.201.118:5140
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" group-title="央视",CCTV2财经
@@ -145,16 +145,6 @@ http://192.168.11.253:10086/udp/233.50.202.36:5140
 http://192.168.11.253:10086/udp/233.50.202.33:5140
 #EXTINF:-1 tvg-id="金鹰卡通" tvg-name="金鹰卡通" group-title="卫视",金鹰卡通
 http://192.168.11.253:10086/udp/233.50.201.73:5140
-#EXTINF:-1 tvg-id="CGTN" tvg-name="CGTN" group-title="国际",CGTN
-http://192.168.11.253:10086/udp/233.50.201.126:5140
-#EXTINF:-1 tvg-id="CGTN西班牙语" tvg-name="CGTN西班牙语" group-title="国际",CGTN西班牙语
-http://192.168.11.253:10086/udp/233.50.201.36:5140
-#EXTINF:-1 tvg-id="CGTN法语" tvg-name="CGTN法语" group-title="国际",CGTN法语
-http://192.168.11.253:10086/udp/233.50.201.37:5140
-#EXTINF:-1 tvg-id="CGTN阿拉伯语" tvg-name="CGTN阿拉伯语" group-title="国际",CGTN阿拉伯语
-http://192.168.11.253:10086/udp/233.50.201.38:5140
-#EXTINF:-1 tvg-id="CGTN俄罗斯语" tvg-name="CGTN俄罗斯语" group-title="国际",CGTN俄罗斯语
-http://192.168.11.253:10086/udp/233.50.201.39:5140
 #EXTINF:-1 tvg-id="浙江钱江都市" tvg-name="浙江钱江都市" group-title="地方",钱江频道
 http://192.168.11.253:10086/udp/233.50.201.132:5140
 #EXTINF:-1 tvg-id="浙江经济生活" tvg-name="浙江经济生活" group-title="地方",浙江经济生活
