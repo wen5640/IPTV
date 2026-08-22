@@ -108,11 +108,11 @@ http://192.168.11.253:10086/udp/233.50.201.65:5140
 #EXTINF:-1 tvg-name="黑龙江卫视" group-title="卫视",黑龙江卫视
 http://192.168.11.253:10086/udp/233.50.201.115:5140
 
-#EXTINF:-1 tvg-name="BesTV纪实" group-title="百视通",BesTV-1
+#EXTINF:-1 tvg-name="BesTV纪实" group-title="百视通",BesTV纪实
 http://192.168.11.253:10086/udp/233.50.200.182:5140
-#EXTINF:-1 tvg-name="BesTV少儿" group-title="百视通",BesTV-2
+#EXTINF:-1 tvg-name="BesTV少儿" group-title="百视通",BesTV少儿
 http://192.168.11.253:10086/udp/233.50.200.183:5140
-#EXTINF:-1 tvg-name="BesTV视界" group-title="百视通",BesTV-3
+#EXTINF:-1 tvg-name="BesTV视界" group-title="百视通",BesTV视界
 http://192.168.11.253:10086/udp/233.50.200.185:5140
 
 #EXTINF:-1 tvg-name="丽水新闻综合" group-title="地方",丽水新闻综合
