@@ -135,25 +135,25 @@ http://192.168.11.253:10086/udp/233.50.200.115:5140
 #EXTINF:-1 group-title="卫视频道",浙江卫视
 http://192.168.11.253:10086/udp/233.50.201.100:5140
 
-#EXTINF:-1 group-title="卫视标清",兵团卫视
+#EXTINF:-1 group-title="卫视频道",兵团卫视
 http://192.168.11.253:10086/udp/233.50.201.72:5140
 
-#EXTINF:-1 group-title="卫视标清",内蒙古卫视
+#EXTINF:-1 group-title="卫视频道",内蒙古卫视
 http://192.168.11.253:10086/udp/233.50.201.148:5140
 
-#EXTINF:-1 group-title="卫视标清",宁夏卫视
+#EXTINF:-1 group-title="卫视频道",宁夏卫视
 http://192.168.11.253:10086/udp/233.50.201.57:5140
 
-#EXTINF:-1 group-title="卫视标清",山西卫视
+#EXTINF:-1 group-title="卫视频道",山西卫视
 http://192.168.11.253:10086/udp/233.50.201.51:5140
 
-#EXTINF:-1 group-title="卫视标清",西藏卫视
+#EXTINF:-1 group-title="卫视频道",西藏卫视
 http://192.168.11.253:10086/udp/233.50.201.70:5140
 
-#EXTINF:-1 group-title="卫视标清",陕西卫视
+#EXTINF:-1 group-title="卫视频道",陕西卫视
 http://192.168.11.253:10086/udp/233.50.201.59:5140
 
-#EXTINF:-1 group-title="卫视标清",青海卫视
+#EXTINF:-1 group-title="卫视频道",青海卫视
 http://192.168.11.253:10086/udp/233.50.200.131:5140
 
 #EXTINF:-1 group-title="地方频道",北京卡酷少儿
