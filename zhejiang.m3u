@@ -198,34 +198,34 @@ http://192.168.11.253:5140/udp/233.50.201.156:5140
 #EXTINF:-1 tvg-name="北京卡酷少儿" group-title="地方频道",北京卡酷少儿
 http://192.168.11.253:5140/udp/233.50.200.166:5140
 
-#EXTINF:-1 tvg-name="多彩文体4K" group-title="地方频道",多彩文体4K
+#EXTINF:-1 tvg-name="多彩文体4K" group-title="SiTV",多彩文体4K
 http://192.168.11.253:5140/udp/233.50.200.52:5140
 
-#EXTINF:-1 tvg-name="东方财经" group-title="地方频道",东方财经
+#EXTINF:-1 tvg-name="东方财经" group-title="SiTV",东方财经
 http://192.168.11.253:5140/udp/233.50.201.128:5140
 
-#EXTINF:-1 tvg-name="乐游" group-title="地方频道",乐游
+#EXTINF:-1 tvg-name="乐游" group-title="SiTV",乐游
 http://192.168.11.253:5140/udp/233.50.201.185:5140
 
-#EXTINF:-1 tvg-name="动漫秀场" group-title="地方频道",动漫秀场
+#EXTINF:-1 tvg-name="动漫秀场" group-title="SiTV",动漫秀场
 http://192.168.11.253:5140/udp/233.50.201.184:5140
 
-#EXTINF:-1 tvg-name="上海法治天地" group-title="地方频道",法治天地
+#EXTINF:-1 tvg-name="上海法治天地" group-title="SiTV",法治天地
 http://192.168.11.253:5140/udp/233.50.201.191:5140
 
-#EXTINF:-1 tvg-name="游戏风云" group-title="地方频道",游戏风云
+#EXTINF:-1 tvg-name="游戏风云" group-title="SiTV",游戏风云
 http://192.168.11.253:5140/udp/233.50.201.183:5140
 
-#EXTINF:-1 tvg-name="生活时尚" group-title="地方频道",生活时尚
+#EXTINF:-1 tvg-name="生活时尚" group-title="SiTV",生活时尚
 http://192.168.11.253:5140/udp/233.50.201.187:5140
 
-#EXTINF:-1 tvg-name="第一财经" group-title="地方频道",第一财经
+#EXTINF:-1 tvg-name="第一财经" group-title="SiTV",第一财经
 http://192.168.11.253:5140/udp/233.50.200.125:5140
 
-#EXTINF:-1 tvg-name="都市剧场" group-title="地方频道",都市剧场
+#EXTINF:-1 tvg-name="都市剧场" group-title="SiTV",都市剧场
 http://192.168.11.253:5140/udp/233.50.201.190:5140
 
-#EXTINF:-1 tvg-name="金色学堂" group-title="地方频道",金色学堂
+#EXTINF:-1 tvg-name="金色学堂" group-title="SiTV",金色学堂
 http://192.168.11.253:5140/udp/233.50.201.186:5140
 
 #EXTINF:-1 tvg-name="BesTV纪实4K" group-title="百视通",BesTV纪实4K
