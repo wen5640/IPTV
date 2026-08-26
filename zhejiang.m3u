@@ -162,31 +162,31 @@ http://192.168.11.253:5140/udp/233.50.201.132:5140
 #EXTINF:-1 tvg-name="温州新闻综合" group-title="地方",温州新闻综合
 http://192.168.11.253:5140/udp/233.50.201.87:5140
 
-#EXTINF:-1 tvg-name="宁波1综合" group-title="地方",宁波1综合
+#EXTINF:-1 tvg-name="宁波综合" group-title="地方",宁波综合
 http://192.168.11.253:5140/udp/233.50.201.168:5140
 
-#EXTINF:-1 tvg-name="宁波2生活" group-title="地方",宁波2生活
+#EXTINF:-1 tvg-name="宁波生活" group-title="地方",宁波生活
 http://192.168.11.253:5140/udp/233.50.201.178:5140
 
-#EXTINF:-1 tvg-name="宁波3都市" group-title="地方",宁波3都市
+#EXTINF:-1 tvg-name="宁波都市" group-title="地方",宁波都市
 http://192.168.11.253:5140/udp/233.50.201.179:5140
 
-#EXTINF:-1 tvg-name="宁波4影视" group-title="地方",宁波4影视
+#EXTINF:-1 tvg-name="宁波影视" group-title="地方",宁波影视
 http://192.168.11.253:5140/udp/233.50.201.180:5140
 
-#EXTINF:-1 tvg-name="杭州1综合" group-title="地方",杭州1综合
+#EXTINF:-1 tvg-name="杭州综合" group-title="地方",杭州综合
 http://192.168.11.253:5140/udp/233.50.201.173:5140
 
-#EXTINF:-1 tvg-name="杭州2明珠" group-title="地方",杭州2明珠
+#EXTINF:-1 tvg-name="杭州明珠" group-title="地方",杭州明珠
 http://192.168.11.253:5140/udp/233.50.201.174:5140
 
-#EXTINF:-1 tvg-name="杭州3生活" group-title="地方",杭州3生活
+#EXTINF:-1 tvg-name="杭州生活" group-title="地方",杭州生活
 http://192.168.11.253:5140/udp/233.50.201.175:5140
 
-#EXTINF:-1 tvg-name="杭州4影视" group-title="地方",杭州4影视
+#EXTINF:-1 tvg-name="杭州影视" group-title="地方",杭州影视
 http://192.168.11.253:5140/udp/233.50.201.176:5140
 
-#EXTINF:-1 tvg-name="杭州5青少" group-title="地方",杭州5青少
+#EXTINF:-1 tvg-name="杭州青少" group-title="地方",杭州青少
 http://192.168.11.253:5140/udp/233.50.201.177:5140
 
 #EXTINF:-1 tvg-name="绍兴新闻综合" group-title="地方",绍兴新闻综合
