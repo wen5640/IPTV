@@ -257,3 +257,39 @@ http://192.168.11.253:5140/udp/233.50.200.183:5140
 
 #EXTINF:-1 tvg-name="BesTV视界4K" group-title="4K高清",BesTV视界4K
 http://192.168.11.253:5140/udp/233.50.200.185:5140
+
+#EXTINF:-1 tvg-name="凤凰卫视" group-title="卫视",凤凰卫视
+http://113.95.132.16:9901/tsfile/live/0108_1.m3u8?key=txiptv&playlive=1&authid=0
+
+#EXTINF:-1 tvg-name="翡翠台" group-title="地方",翡翠台
+http://113.95.132.16:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
+
+#EXTINF:-1 tvg-name="华数电影4K" group-title="4K高清",华数电影4K
+http://111.59.139.82:11888/tsfile/live/1098_1.m3u8?key=txiptv&playlive=1&authid=0
+
+#EXTINF:-1 tvg-name="BTV体育" group-title="地方",BTV体育
+http://123.118.53.84:45237/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
+
+#EXTINF:-1 tvg-name="BTV卡酷" group-title="地方",BTV卡酷
+http://123.118.53.84:45237/tsfile/live/1013_1.m3u8?key=txiptv&playlive=1&authid=0
+
+#EXTINF:-1 tvg-name="BTV影视" group-title="地方",BTV影视
+http://123.118.53.84:45237/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
+
+#EXTINF:-1 tvg-name="BTV文艺" group-title="地方",BTV文艺
+http://123.118.53.84:45237/tsfile/live/0017_1.m3u8?key=txiptv&playlive=1&authid=0
+
+#EXTINF:-1 tvg-name="BTV新闻" group-title="地方",BTV新闻
+http://123.118.53.84:45237/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
+
+#EXTINF:-1 tvg-name="BTV生活" group-title="地方",BTV生活
+http://123.118.53.84:45237/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
+
+#EXTINF:-1 tvg-name="BTV科教" group-title="地方",BTV科教
+http://123.118.53.84:45237/tsfile/live/0018_1.m3u8?key=txiptv&playlive=1&authid=0
+
+#EXTINF:-1 tvg-name="BTV财经" group-title="地方",BTV财经
+http://123.118.53.84:45237/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+
+#EXTINF:-1 tvg-name="澳门卫视" group-title="卫视",澳门卫视
+http://113.95.132.16:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
