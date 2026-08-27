@@ -132,7 +132,7 @@ http://192.168.11.253:5140/udp/233.50.201.104:5140
 #EXTINF:-1 tvg-name="云南卫视" group-title="卫视",云南卫视
 http://192.168.11.253:5140/udp/233.50.200.115:5140
 
-#EXTINF:-1 tvg-name="浙江卫视" group-title="卫视",浙江卫视
+#EXTINF:-1 tvg-name="浙江卫视" group-title="浙江",浙江卫视
 http://192.168.11.253:5140/udp/233.50.201.100:5140
 
 #EXTINF:-1 tvg-name="中国教育1台" group-title="地方",中国教育1台
@@ -141,55 +141,55 @@ http://192.168.11.253:5140/udp/233.50.200.169:5140
 #EXTINF:-1 tvg-name="中国教育4台" group-title="地方",中国教育4台
 http://192.168.11.253:5140/udp/233.50.200.174:5140
 
-#EXTINF:-1 tvg-name="浙江公共新闻" group-title="地方",浙江公共新闻
+#EXTINF:-1 tvg-name="浙江公共新闻" group-title="浙江",浙江公共新闻
 http://192.168.11.253:5140/udp/233.50.201.137:5140
 
-#EXTINF:-1 tvg-name="浙江少儿" group-title="地方",浙江少儿
+#EXTINF:-1 tvg-name="浙江少儿" group-title="浙江",浙江少儿
 http://192.168.11.253:5140/udp/233.50.201.138:5140
 
-#EXTINF:-1 tvg-name="浙江教科影视" group-title="地方",浙江教科影视
+#EXTINF:-1 tvg-name="浙江教科影视" group-title="浙江",浙江教科影视
 http://192.168.11.253:5140/udp/233.50.201.134:5140
 
-#EXTINF:-1 tvg-name="浙江民生休闲" group-title="地方",浙江民生休闲
+#EXTINF:-1 tvg-name="浙江民生休闲" group-title="浙江",浙江民生休闲
 http://192.168.11.253:5140/udp/233.50.201.136:5140
 
-#EXTINF:-1 tvg-name="浙江经济生活" group-title="地方",浙江经济生活
+#EXTINF:-1 tvg-name="浙江经济生活" group-title="浙江",浙江经济生活
 http://192.168.11.253:5140/udp/233.50.201.133:5140
 
-#EXTINF:-1 tvg-name="浙江钱江都市" group-title="地方",浙江钱江都市
+#EXTINF:-1 tvg-name="浙江钱江都市" group-title="浙江",浙江钱江都市
 http://192.168.11.253:5140/udp/233.50.201.132:5140
 
-#EXTINF:-1 tvg-name="温州新闻综合" group-title="地方",温州新闻综合
+#EXTINF:-1 tvg-name="温州新闻综合" group-title="浙江",温州新闻综合
 http://192.168.11.253:5140/udp/233.50.201.87:5140
 
-#EXTINF:-1 tvg-name="宁波综合" group-title="地方",宁波综合
+#EXTINF:-1 tvg-name="宁波综合" group-title="浙江",宁波综合
 http://192.168.11.253:5140/udp/233.50.201.168:5140
 
-#EXTINF:-1 tvg-name="宁波生活" group-title="地方",宁波生活
+#EXTINF:-1 tvg-name="宁波生活" group-title="浙江",宁波生活
 http://192.168.11.253:5140/udp/233.50.201.178:5140
 
-#EXTINF:-1 tvg-name="宁波都市" group-title="地方",宁波都市
+#EXTINF:-1 tvg-name="宁波都市" group-title="浙江",宁波都市
 http://192.168.11.253:5140/udp/233.50.201.179:5140
 
-#EXTINF:-1 tvg-name="宁波影视" group-title="地方",宁波影视
+#EXTINF:-1 tvg-name="宁波影视" group-title="浙江",宁波影视
 http://192.168.11.253:5140/udp/233.50.201.180:5140
 
-#EXTINF:-1 tvg-name="杭州综合" group-title="地方",杭州综合
+#EXTINF:-1 tvg-name="杭州综合" group-title="浙江",杭州综合
 http://192.168.11.253:5140/udp/233.50.201.173:5140
 
-#EXTINF:-1 tvg-name="杭州明珠" group-title="地方",杭州明珠
+#EXTINF:-1 tvg-name="杭州明珠" group-title="浙江",杭州明珠
 http://192.168.11.253:5140/udp/233.50.201.174:5140
 
-#EXTINF:-1 tvg-name="杭州生活" group-title="地方",杭州生活
+#EXTINF:-1 tvg-name="杭州生活" group-title="浙江",杭州生活
 http://192.168.11.253:5140/udp/233.50.201.175:5140
 
-#EXTINF:-1 tvg-name="杭州影视" group-title="地方",杭州影视
+#EXTINF:-1 tvg-name="杭州影视" group-title="浙江",杭州影视
 http://192.168.11.253:5140/udp/233.50.201.176:5140
 
-#EXTINF:-1 tvg-name="杭州青少" group-title="地方",杭州青少
+#EXTINF:-1 tvg-name="杭州青少" group-title="浙江",杭州青少
 http://192.168.11.253:5140/udp/233.50.201.177:5140
 
-#EXTINF:-1 tvg-name="绍兴新闻综合" group-title="地方",绍兴新闻综合
+#EXTINF:-1 tvg-name="绍兴新闻综合" group-title="浙江",绍兴新闻综合
 http://192.168.11.253:5140/udp/233.50.201.156:5140
 
 #EXTINF:-1 tvg-name="BTV卡酷" group-title="北京",BTV卡酷
