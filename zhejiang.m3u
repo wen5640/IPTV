@@ -60,13 +60,13 @@ http://192.168.11.253:5140/udp/233.50.200.113:5140
 #EXTINF:-1 tvg-name="安徽卫视" group-title="卫视",安徽卫视
 http://192.168.11.253:5140/udp/233.50.201.113:5140
 
-#EXTINF:-1 tvg-name="北京卫视" group-title="卫视",北京卫视
+#EXTINF:-1 tvg-name="BTV北京卫视" group-title="北京",BTV北京卫视
 http://192.168.11.253:5140/udp/233.50.201.107:5140
 
 #EXTINF:-1 tvg-name="重庆卫视" group-title="卫视",重庆卫视
 http://192.168.11.253:5140/udp/233.50.201.143:5140
 
-#EXTINF:-1 tvg-name="东方卫视" group-title="卫视",东方卫视
+#EXTINF:-1 tvg-name="东方卫视" group-title="上海",东方卫视
 http://192.168.11.253:5140/udp/233.50.201.125:5140
 
 #EXTINF:-1 tvg-name="东南卫视" group-title="卫视",东南卫视
@@ -192,56 +192,56 @@ http://192.168.11.253:5140/udp/233.50.201.177:5140
 #EXTINF:-1 tvg-name="绍兴新闻综合" group-title="地方",绍兴新闻综合
 http://192.168.11.253:5140/udp/233.50.201.156:5140
 
-#EXTINF:-1 tvg-name="BTV卡酷" group-title="地方",BTV卡酷
+#EXTINF:-1 tvg-name="BTV卡酷" group-title="BRTV",BTV卡酷
 http://192.168.11.253:5140/udp/233.50.200.166:5140
 
-#EXTINF:-1 tvg-name="多彩文体4K" group-title="SiTV",多彩文体4K
+#EXTINF:-1 tvg-name="多彩文体4K" group-title="上海",多彩文体4K
 http://192.168.11.253:5140/udp/233.50.200.52:5140
 
-#EXTINF:-1 tvg-name="东方财经" group-title="SiTV",东方财经
+#EXTINF:-1 tvg-name="东方财经" group-title="上海",东方财经
 http://192.168.11.253:5140/udp/233.50.201.128:5140
 
-#EXTINF:-1 tvg-name="乐游" group-title="SiTV",乐游
+#EXTINF:-1 tvg-name="乐游" group-title="上海",乐游
 http://192.168.11.253:5140/udp/233.50.201.185:5140
 
-#EXTINF:-1 tvg-name="动漫秀场" group-title="SiTV",动漫秀场
+#EXTINF:-1 tvg-name="动漫秀场" group-title="上海",动漫秀场
 http://192.168.11.253:5140/udp/233.50.201.184:5140
 
-#EXTINF:-1 tvg-name="上海法治天地" group-title="SiTV",法治天地
+#EXTINF:-1 tvg-name="法治天地" group-title="上海",法治天地
 http://192.168.11.253:5140/udp/233.50.201.191:5140
 
-#EXTINF:-1 tvg-name="游戏风云" group-title="SiTV",游戏风云
+#EXTINF:-1 tvg-name="游戏风云" group-title="上海",游戏风云
 http://192.168.11.253:5140/udp/233.50.201.183:5140
 
-#EXTINF:-1 tvg-name="生活时尚" group-title="SiTV",生活时尚
+#EXTINF:-1 tvg-name="生活时尚" group-title="上海",生活时尚
 http://192.168.11.253:5140/udp/233.50.201.187:5140
 
-#EXTINF:-1 tvg-name="第一财经" group-title="SiTV",第一财经
+#EXTINF:-1 tvg-name="第一财经" group-title="上海",第一财经
 http://192.168.11.253:5140/udp/233.50.200.125:5140
 
-#EXTINF:-1 tvg-name="都市剧场" group-title="SiTV",都市剧场
+#EXTINF:-1 tvg-name="都市剧场" group-title="上海",都市剧场
 http://192.168.11.253:5140/udp/233.50.201.190:5140
 
-#EXTINF:-1 tvg-name="金色学堂" group-title="SiTV",金色学堂
+#EXTINF:-1 tvg-name="金色学堂" group-title="上海",金色学堂
 http://192.168.11.253:5140/udp/233.50.201.186:5140
 
 #EXTINF:-1 tvg-name="兵团卫视" group-title="卫视",兵团卫视
-http://222.71.55.147:9901/tsfile/live/0115_1.m3u8?key=txiptv&playlive=0&authid=0
+http://222.71.55.147:9901/tsfile/live/0115_1.m3u8
 
 #EXTINF:-1 tvg-name="内蒙古卫视" group-title="卫视",内蒙古卫视
-http://222.71.55.147:9901/tsfile/live/0109_1.m3u8?key=txiptv&playlive=0&authid=0
+http://222.71.55.147:9901/tsfile/live/0109_1.m3u8
 
 #EXTINF:-1 tvg-name="宁夏卫视" group-title="卫视",宁夏卫视
-http://222.71.55.147:9901/tsfile/live/0112_1.m3u8?key=txiptv&playlive=0&authid=0
+http://222.71.55.147:9901/tsfile/live/0112_1.m3u8
 
 #EXTINF:-1 tvg-name="新疆卫视" group-title="卫视",新疆卫视
-http://222.71.55.147:9901/tsfile/live/0110_1.m3u8?key=txiptv&playlive=0&authid=0
+http://222.71.55.147:9901/tsfile/live/0110_1.m3u8
 
 #EXTINF:-1 tvg-name="西藏卫视" group-title="卫视",西藏卫视
-http://222.71.55.147:9901/tsfile/live/0111_1.m3u8?key=txiptv&playlive=0&authid=0
+http://222.71.55.147:9901/tsfile/live/0111_1.m3u8
 
 #EXTINF:-1 tvg-name="陕西卫视" group-title="卫视",陕西卫视
-http://222.71.55.147:9901/tsfile/live/0136_1.m3u8?key=txiptv&playlive=0&authid=0
+http://222.71.55.147:9901/tsfile/live/0136_1.m3u8
 
 #EXTINF:-1 tvg-name="浙江卫视4K" group-title="4K高清",浙江卫视4K
 http://ali-xwl.cztv.com/live/channel4k2160p.m3u8
@@ -259,34 +259,58 @@ http://192.168.11.253:5140/udp/233.50.200.183:5140
 http://192.168.11.253:5140/udp/233.50.200.185:5140
 
 #EXTINF:-1 tvg-name="凤凰卫视" group-title="卫视",凤凰卫视
-http://113.95.132.16:9901/tsfile/live/0108_1.m3u8?key=txiptv&playlive=1&authid=0
+http://113.95.132.16:9901/tsfile/live/0108_1.m3u8
 
 #EXTINF:-1 tvg-name="翡翠台" group-title="地方",翡翠台
-http://113.95.132.16:9901/tsfile/live/1011_1.m3u8?key=txiptv&playlive=1&authid=0
+http://113.95.132.16:9901/tsfile/live/1011_1.m3u8
 
 #EXTINF:-1 tvg-name="华数电影4K" group-title="4K高清",华数电影4K
-http://111.59.139.82:11888/tsfile/live/1098_1.m3u8?key=txiptv&playlive=1&authid=0
+http://111.59.139.82:11888/tsfile/live/1098_1.m3u8
 
-#EXTINF:-1 tvg-name="BTV体育" group-title="地方",BTV体育
-http://123.118.53.84:45237/tsfile/live/1005_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="BTV体育" group-title="北京",BTV体育
+http://123.118.53.84:45237/tsfile/live/1005_1.m3u8
 
-#EXTINF:-1 tvg-name="BTV影视" group-title="地方",BTV影视
-http://123.118.53.84:45237/tsfile/live/0019_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="BTV影视" group-title="北京",BTV影视
+http://123.118.53.84:45237/tsfile/live/0019_1.m3u8
 
-#EXTINF:-1 tvg-name="BTV文艺" group-title="地方",BTV文艺
-http://123.118.53.84:45237/tsfile/live/0017_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="BTV文艺" group-title="北京",BTV文艺
+http://123.118.53.84:45237/tsfile/live/0017_1.m3u8
 
-#EXTINF:-1 tvg-name="BTV新闻" group-title="地方",BTV新闻
-http://123.118.53.84:45237/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="BTV新闻" group-title="北京",BTV新闻
+http://123.118.53.84:45237/tsfile/live/1004_1.m3u8
 
-#EXTINF:-1 tvg-name="BTV生活" group-title="地方",BTV生活
-http://123.118.53.84:45237/tsfile/live/1003_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="BTV生活" group-title="北京",BTV生活
+http://123.118.53.84:45237/tsfile/live/1003_1.m3u8
 
-#EXTINF:-1 tvg-name="BTV科教" group-title="地方",BTV科教
-http://123.118.53.84:45237/tsfile/live/0018_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="BTV科教" group-title="北京",BTV科教
+http://123.118.53.84:45237/tsfile/live/0018_1.m3u8
 
-#EXTINF:-1 tvg-name="BTV财经" group-title="地方",BTV财经
-http://123.118.53.84:45237/tsfile/live/1001_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 tvg-name="BTV财经" group-title="北京",BTV财经
+http://123.118.53.84:45237/tsfile/live/1001_1.m3u8
 
 #EXTINF:-1 tvg-name="澳门卫视" group-title="卫视",澳门卫视
-http://113.95.132.16:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0
+http://113.95.132.16:9901/tsfile/live/1004_1.m3u8
+
+#EXTINF:-1 tvg-name="新闻综合" group-title="上海",新闻综合
+http://222.71.55.147:9901/tsfile/live/1020_1.m3u8
+
+#EXTINF:-1 tvg-name="都市频道" group-title="上海",都市频道
+http://222.71.55.147:9901/tsfile/live/1023_1.m3u8
+
+#EXTINF:-1 tvg-name="哈哈炫动" group-title="上海",哈哈炫动
+http://222.71.55.147:9901/tsfile/live/1024_1.m3u8
+
+#EXTINF:-1 tvg-name="东方影视" group-title="上海",东方影视
+http://222.71.55.147:9901/tsfile/live/1025_1.m3u8
+
+#EXTINF:-1 tvg-name="五星体育" group-title="上海",五星体育
+http://222.71.55.147:9901/tsfile/live/1027_1.m3u8
+
+#EXTINF:-1 tvg-name="教育频道" group-title="上海",教育频道
+http://222.71.55.147:9901/tsfile/live/1029_1.m3u8
+
+#EXTINF:-1 tvg-name="财富天下" group-title="地方",财富天下
+http://222.71.55.147:9901/tsfile/live/1026_1.m3u8
+
+#EXTINF:-1 tvg-name="CCTV4K超高清" group-title="4K高清",CCTV4K超高清
+http://222.71.55.147:9901/tsfile/live/1048_1.m3u8
