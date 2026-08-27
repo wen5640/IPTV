@@ -1,0 +1,151 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-name="中国教育1台" group-title="🌴地方频道",中国教育1台
+http://192.168.11.253:5140/udp/233.50.200.169:5140
+
+#EXTINF:-1 tvg-name="中国教育4台" group-title="🌴地方频道",中国教育4台
+http://192.168.11.253:5140/udp/233.50.200.174:5140
+
+#EXTINF:-1 tvg-name="浙江公共新闻" group-title="🌴地方频道",浙江公共新闻
+http://192.168.11.253:5140/udp/233.50.201.137:5140
+
+#EXTINF:-1 tvg-name="浙江少儿" group-title="🌴地方频道",浙江少儿
+http://192.168.11.253:5140/udp/233.50.201.138:5140
+
+#EXTINF:-1 tvg-name="浙江教科影视" group-title="🌴地方频道",浙江教科影视
+http://192.168.11.253:5140/udp/233.50.201.134:5140
+
+#EXTINF:-1 tvg-name="浙江民生休闲" group-title="🌴地方频道",浙江民生休闲
+http://192.168.11.253:5140/udp/233.50.201.136:5140
+
+#EXTINF:-1 tvg-name="浙江经济生活" group-title="🌴地方频道",浙江经济生活
+http://192.168.11.253:5140/udp/233.50.201.133:5140
+
+#EXTINF:-1 tvg-name="浙江钱江都市" group-title="🌴地方频道",浙江钱江都市
+http://192.168.11.253:5140/udp/233.50.201.132:5140
+
+#EXTINF:-1 tvg-name="温州新闻综合" group-title="🌴地方频道",温州新闻综合
+http://192.168.11.253:5140/udp/233.50.201.87:5140
+
+#EXTINF:-1 tvg-name="宁波综合" group-title="🌴地方频道",宁波综合
+http://192.168.11.253:5140/udp/233.50.201.168:5140
+
+#EXTINF:-1 tvg-name="宁波生活" group-title="🌴地方频道",宁波生活
+http://192.168.11.253:5140/udp/233.50.201.178:5140
+
+#EXTINF:-1 tvg-name="宁波都市" group-title="🌴地方频道",宁波都市
+http://192.168.11.253:5140/udp/233.50.201.179:5140
+
+#EXTINF:-1 tvg-name="宁波影视" group-title="🌴地方频道",宁波影视
+http://192.168.11.253:5140/udp/233.50.201.180:5140
+
+#EXTINF:-1 tvg-name="杭州综合" group-title="🌴地方频道",杭州综合
+http://192.168.11.253:5140/udp/233.50.201.173:5140
+
+#EXTINF:-1 tvg-name="杭州明珠" group-title="🌴地方频道",杭州明珠
+http://192.168.11.253:5140/udp/233.50.201.174:5140
+
+#EXTINF:-1 tvg-name="杭州生活" group-title="🌴地方频道",杭州生活
+http://192.168.11.253:5140/udp/233.50.201.175:5140
+
+#EXTINF:-1 tvg-name="杭州影视" group-title="🌴地方频道",杭州影视
+http://192.168.11.253:5140/udp/233.50.201.176:5140
+
+#EXTINF:-1 tvg-name="杭州青少" group-title="🌴地方频道",杭州青少
+http://192.168.11.253:5140/udp/233.50.201.177:5140
+
+#EXTINF:-1 tvg-name="绍兴新闻综合" group-title="🌴地方频道",绍兴新闻综合
+http://192.168.11.253:5140/udp/233.50.201.156:5140
+
+#EXTINF:-1 tvg-name="BTV卡酷" group-title="🌴地方频道",BTV卡酷
+http://192.168.11.253:5140/udp/233.50.200.166:5140
+
+#EXTINF:-1 tvg-name="多彩文体-2160P" group-title="🌴地方频道",多彩文体-2160P
+http://192.168.11.253:5140/udp/233.50.200.52:5140
+
+#EXTINF:-1 tvg-name="东方财经" group-title="🌴地方频道",东方财经
+http://192.168.11.253:5140/udp/233.50.201.128:5140
+
+#EXTINF:-1 tvg-name="乐游" group-title="🌴地方频道",乐游
+http://192.168.11.253:5140/udp/233.50.201.185:5140
+
+#EXTINF:-1 tvg-name="动漫秀场" group-title="🌴地方频道",动漫秀场
+http://192.168.11.253:5140/udp/233.50.201.184:5140
+
+#EXTINF:-1 tvg-name="法治天地" group-title="🌴地方频道",法治天地
+http://192.168.11.253:5140/udp/233.50.201.191:5140
+
+#EXTINF:-1 tvg-name="游戏风云" group-title="🌴地方频道",游戏风云
+http://192.168.11.253:5140/udp/233.50.201.183:5140
+
+#EXTINF:-1 tvg-name="生活时尚" group-title="🌴地方频道",生活时尚
+http://192.168.11.253:5140/udp/233.50.201.187:5140
+
+#EXTINF:-1 tvg-name="第一财经" group-title="🌴地方频道",第一财经
+http://192.168.11.253:5140/udp/233.50.200.125:5140
+
+#EXTINF:-1 tvg-name="都市剧场" group-title="🌴地方频道",都市剧场
+http://192.168.11.253:5140/udp/233.50.201.190:5140
+
+#EXTINF:-1 tvg-name="金色学堂" group-title="🌴地方频道",金色学堂
+http://192.168.11.253:5140/udp/233.50.201.186:5140
+
+#EXTINF:-1 tvg-name="BesTV纪实-2160P" group-title="🌴地方频道",BesTV纪实-2160P
+http://192.168.11.253:5140/udp/233.50.200.182:5140
+
+#EXTINF:-1 tvg-name="BesTV少儿-2160P" group-title="🌴地方频道",BesTV少儿-2160P
+http://192.168.11.253:5140/udp/233.50.200.183:5140
+
+#EXTINF:-1 tvg-name="BesTV视界-2160P" group-title="🌴地方频道",BesTV视界-2160P
+http://192.168.11.253:5140/udp/233.50.200.185:5140
+
+#EXTINF:-1 tvg-name="翡翠台" group-title="🌴地方频道",翡翠台
+http://113.95.132.16:9901/tsfile/live/1011_1.m3u8
+
+#EXTINF:-1 tvg-name="华数电影-2160P" group-title="🌴地方频道",华数电影-2160P
+http://111.59.139.82:11888/tsfile/live/1098_1.m3u8
+
+#EXTINF:-1 tvg-name="BTV体育" group-title="🌴地方频道",BTV体育
+http://123.118.53.84:45237/tsfile/live/1005_1.m3u8
+
+#EXTINF:-1 tvg-name="BTV影视" group-title="🌴地方频道",BTV影视
+http://123.118.53.84:45237/tsfile/live/0019_1.m3u8
+
+#EXTINF:-1 tvg-name="BTV文艺" group-title="🌴地方频道",BTV文艺
+http://123.118.53.84:45237/tsfile/live/0017_1.m3u8
+
+#EXTINF:-1 tvg-name="BTV新闻" group-title="🌴地方频道",BTV新闻
+http://123.118.53.84:45237/tsfile/live/1004_1.m3u8
+
+#EXTINF:-1 tvg-name="BTV生活" group-title="🌴地方频道",BTV生活
+http://123.118.53.84:45237/tsfile/live/1003_1.m3u8
+
+#EXTINF:-1 tvg-name="BTV纪实科教" group-title="🌴地方频道",BTV纪实科教
+http://123.118.53.84:45237/tsfile/live/0018_1.m3u8
+
+#EXTINF:-1 tvg-name="BTV财经" group-title="🌴地方频道",BTV财经
+http://123.118.53.84:45237/tsfile/live/1001_1.m3u8
+
+#EXTINF:-1 tvg-name="新闻综合" group-title="🌴地方频道",新闻综合
+http://222.71.55.147:9901/tsfile/live/1020_1.m3u8
+
+#EXTINF:-1 tvg-name="都市频道" group-title="🌴地方频道",都市频道
+http://222.71.55.147:9901/tsfile/live/1023_1.m3u8
+
+#EXTINF:-1 tvg-name="哈哈炫动" group-title="🌴地方频道",哈哈炫动
+http://222.71.55.147:9901/tsfile/live/1024_1.m3u8
+
+#EXTINF:-1 tvg-name="东方影视" group-title="🌴地方频道",东方影视
+http://222.71.55.147:9901/tsfile/live/1025_1.m3u8
+
+#EXTINF:-1 tvg-name="五星体育" group-title="🌴地方频道",五星体育
+http://222.71.55.147:9901/tsfile/live/1027_1.m3u8
+
+#EXTINF:-1 tvg-name="教育频道" group-title="🌴地方频道",教育频道
+http://222.71.55.147:9901/tsfile/live/1029_1.m3u8
+
+#EXTINF:-1 tvg-name="金鹰卡通" group-title="🌴地方频道",金鹰卡通
+http://111.8.224.6:9999/tsfile/live/1031_1.m3u8
+
+#EXTINF:-1 tvg-name="金鹰纪实" group-title="🌴地方频道",金鹰纪实
+http://139.214.181.56:9901/tsfile/live/1041_1.m3u8
