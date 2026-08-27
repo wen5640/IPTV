@@ -195,7 +195,7 @@ http://192.168.11.253:5140/udp/233.50.201.156:5140
 #EXTINF:-1 tvg-name="BTV卡酷" group-title="北京",BTV卡酷
 http://192.168.11.253:5140/udp/233.50.200.166:5140
 
-#EXTINF:-1 tvg-name="多彩文体4K" group-title="上海",多彩文体4K
+#EXTINF:-1 tvg-name="多彩文体4K" group-title="4K高清",多彩文体4K
 http://192.168.11.253:5140/udp/233.50.200.52:5140
 
 #EXTINF:-1 tvg-name="东方财经" group-title="上海",东方财经
