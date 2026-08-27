@@ -282,11 +282,14 @@ http://123.118.53.84:45237/tsfile/live/1004_1.m3u8
 #EXTINF:-1 tvg-name="BTV生活" group-title="北京",BTV生活
 http://123.118.53.84:45237/tsfile/live/1003_1.m3u8
 
-#EXTINF:-1 tvg-name="BTV科教" group-title="北京",BTV科教
+#EXTINF:-1 tvg-name="BTV纪实科教" group-title="北京",BTV纪实科教
 http://123.118.53.84:45237/tsfile/live/0018_1.m3u8
 
 #EXTINF:-1 tvg-name="BTV财经" group-title="北京",BTV财经
 http://123.118.53.84:45237/tsfile/live/1001_1.m3u8
+
+#EXTINF:-1 tvg-name="澳门卫视" group-title="卫视",澳门卫视
+http://113.95.132.16:9901/tsfile/live/1004_1.m3u8
 
 #EXTINF:-1 tvg-name="新闻综合" group-title="上海",新闻综合
 http://222.71.55.147:9901/tsfile/live/1020_1.m3u8
@@ -306,5 +309,32 @@ http://222.71.55.147:9901/tsfile/live/1027_1.m3u8
 #EXTINF:-1 tvg-name="教育频道" group-title="上海",教育频道
 http://222.71.55.147:9901/tsfile/live/1029_1.m3u8
 
+#EXTINF:-1 tvg-name="财富天下" group-title="地方",财富天下
+http://222.71.55.147:9901/tsfile/live/1026_1.m3u8
+
 #EXTINF:-1 tvg-name="CCTV4K超高清" group-title="4K高清",CCTV4K超高清
 http://222.71.55.147:9901/tsfile/live/1048_1.m3u8
+
+#EXTINF:-1 tvg-name="CCTV兵器科技" group-title="央视",CCTV兵器科技
+http://139.214.181.56:9901/tsfile/live/1030_1.m3u8
+
+#EXTINF:-1 tvg-name="CCTV风云剧场" group-title="央视",CCTV风云剧场
+http://139.214.181.56:9901/tsfile/live/1034_1.m3u8
+
+#EXTINF:-1 tvg-name="CCTV风云音乐" group-title="央视清",CCTV风云音乐
+http://139.214.181.56:9901/tsfile/live/1032_1.m3u8
+
+#EXTINF:-1 tvg-name="CCTV风云足球" group-title="央视",CCTV风云足球
+http://139.214.181.56:9901/tsfile/live/1033_1.m3u8
+
+#EXTINF:-1 tvg-name="金鹰卡通" group-title="地方",金鹰卡通
+http://111.8.224.6:9999/tsfile/live/1031_1.m3u8
+
+#EXTINF:-1 tvg-name="CCTV央视台球" group-title="央视",CCTV央视台球
+http://139.214.181.56:9901/tsfile/live/1035_1.m3u8
+
+#EXTINF:-1 tvg-name="CCTV央视文化精品" group-title="央视",CCTV央视文化精品
+http://139.214.181.56:9901/tsfile/live/1028_1.m3u8
+
+#EXTINF:-1 tvg-name="CCTV兵器科技" group-title="央视",CCTV兵器科技
+http://139.214.181.56:9901/tsfile/live/1030_1.m3u8
